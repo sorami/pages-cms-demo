@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Test title
 description: Description here.
 date: 2024-08-04
